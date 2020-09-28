@@ -1,4 +1,0 @@
-.babelrc
-.webpack.config
-src\js\config.js
-src\js\index.js
